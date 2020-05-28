@@ -1,0 +1,29 @@
+,day,totalSamplesTested,totalPositiveCases,Source,positive_ratio,perday_positive,perday_tests
+0,13/03/20,6500,78,Press_Release_ICMR_13March2020.pdf,,,
+1,18/03/20,13125,150,ICMR_website_update_18March_6PM_IST.pdf,1.09,72.0,6625.0
+2,19/03/20,13316,168,ICMR_website_update_19March_10AM_IST_V2.pdf,9.42,18.0,191.0
+3,19/03/20,14175,182,ICMR_website_update_19March_6PM_IST.pdf,1.63,14.0,859.0
+4,20/03/20,14376,206,ICMR_website_update_20March_10AM_IST.pdf,11.94,24.0,201.0
+5,20/03/20,15404,236,ICMR_website_update_20March_6PM_IST.pdf,2.92,30.0,1028.0
+6,21/03/20,15701,271,ICMR_website_update_21March_10AM_IST.pdf,11.78,35.0,297.0
+7,21/03/20,16911,315,ICMR_website_update_21March_6PM_IST.pdf,3.64,44.0,1210.0
+8,22/03/20,16999,341,ICMR_website_update_22March_10AM_IST.pdf,29.55,26.0,88.0
+9,22/03/20,18127,396,ICMR_website_update_22March_6PM_IST.pdf,4.88,55.0,1128.0
+10,23/03/20,18383,415,ICMR_website_update_23March_10AM_IST.pdf,7.42,19.0,256.0
+11,23/03/20,20707,471,ICMR_website_update_23March_8PM_IST.pdf,2.41,56.0,2324.0
+12,24/03/20,20864,482,ICMR_website_update_24March_10AM_IST.pdf,7.01,11.0,157.0
+13,24/03/20,22694,536,ICMR_website_update_24March_8PM_IST.pdf,2.95,54.0,1830.0
+14,25/03/20,22928,539,ICMR_website_update_25March_10AM_IST.pdf,1.28,3.0,234.0
+15,25/03/20,25144,581,ICMR_website_update_25March_8PM_IST.pdf,1.9,42.0,2216.0
+16,27/03/20,27688,691,ICMR_website_update_27March_9AM_IST.pdf,4.32,110.0,2544.0
+17,30/03/20,38442,1334,MoH Press conference with Dr. Raman G,5.98,643.0,10754.0
+18,31/03/20,42788,1533,MoH Press conference with Dr. Raman G,4.58,199.0,4346.0
+19,01/04/20,47951,1637,https://twitter.com/PTI_News/status/1245308976440340482,2.01,104.0,5163.0
+20,02/04/20,55851,2056,ICMR_testing_update_02April_9PM_IST.pdf,5.3,419.0,7900.0
+21,03/04/20,56680,2183,ICMR_testing_update_03April_9AM_IST.pdf,15.32,127.0,829.0
+22,03/04/20,69245,2653,ICMR_testing_update_03April_9PM_IST.pdf,3.74,470.0,12565.0
+23,04/04/20,79950,3113,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_04April_9PM_IST.pdf,4.3,460.0,10705.0
+24,05/04/20,89534,3554,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_05April_9PM_IST.pdf,4.6,441.0,9584.0
+25,06/04/20,101068,4135,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_06April_9PM_IST.pdf,5.04,581.0,11534.0
+26,07/04/20,114015,4616,ICMR_testing_update_07April_9PM_IST.pdf,3.72,481.0,12947.0
+27,08/04/20,127919,5114,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_08April_9PM_IST.pdf,3.58,498.0,13904.0
